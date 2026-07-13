@@ -9,9 +9,9 @@ class Student:
         print(f"Name: {self.name}, Admission No: {self.admission_number}, Course: {self.course}")
 
 # Creating three Student objects
-student1 = Student("Chebo", "T006/303936/2024", "Computer Science")
-student2 = Student("Amina", "T006/303937/2024", "Information Technology")
-student3 = Student("Otieno", "T006/303938/2024", "Business IT")
+student1 = Student("Collin", "T006/303936/2024", "Computer Science")
+student2 = Student("kibet", "T007/304789/2026", "Information Technology")
+student3 = Student("vader", "T008/305638/2026", "Business IT")
 
 student1.display_info()
 student2.display_info()
