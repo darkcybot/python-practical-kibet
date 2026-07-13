@@ -6,8 +6,8 @@ class Student:
         self.name = name  # instance variable — unique to each object
 
 # Creating objects
-s1 = Student("Chebo")
-s2 = Student("Amina")
+s1 = Student("Kibet")
+s2 = Student("Collin")
 
 # Accessing the class variable from different objects
 print(s1.name, "studies at", s1.school_name)
