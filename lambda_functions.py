@@ -7,7 +7,7 @@ multiply = lambda a, b: a * b
 print("Multiply:", multiply(4, 5))
 
 # Sorting a list with a lambda key
-students = [("Chebo", 22), ("Amina", 20), ("Otieno", 25)]
+students = [("Kibet", 21), ("Collin", 20), ("Vader", 25)]
 sorted_students = sorted(students, key=lambda student: student[1])
 print("Sorted by age:", sorted_students)
 
