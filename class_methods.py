@@ -17,7 +17,7 @@ class Student:
         cls.school_name = new_name
 
 # Testing
-s1 = Student("Chebo", "Computer Science")
+s1 = Student("Kibet", "Computer Science")
 s1.display_info()
 
 # Using the class method to change the shared school name
